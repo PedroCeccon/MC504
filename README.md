@@ -1,4 +1,10 @@
 # The Senate Bus problem
+## Grupo
+* Luiza Coelho de Souza - 247257
+* Pedro Henrique Peraçoli Pereira Ceccon - 247327
+* Raphael Ferezin Kitahara - 244389
+* Tiago Godoi Bannwart - 215386
+
 ## O problema
   O problema selecionado por nós foi o The Senate Bus problem, descrito no livro "The Little Book of Semaphores". 
   O problema consiste em passagageiros que chegam em um ponto de ônibus e esperam sua chegada. Quando o ônibus chega, os passageiros que já estavam esperando podem embarcar
